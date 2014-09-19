@@ -10,8 +10,8 @@ Lacturers, collaborators and administrators of this repository are strcutured as
 
 Administrators:
 
-Ivan Girotto (igirotto@ictp.it, ICTP)  
-Mike Atambo  (mikeat4999@gmail.com, ICTP)  
+Ivan Girotto - igirotto@ictp.it, ICTP 
+Mike Atambo  - mikeat4999@gmail.com, ICTP 
 
 
 Lecturers:
