@@ -19,7 +19,7 @@ Lecturers:
 Stefano Salon - ssalon@ogs.trieste.it - OGS  
 Paolo Lazzari - plazzari@ogs.trieste.it - OGS  
 Peter Klin - pklin@inogs.it - OGS  
-Riccardo Ferneti - rfarneti@ictp.it - ICTP  
+Riccardo Farneti - rfarneti@ictp.it - ICTP  
 Graziano Giuliani - ggiulian@ictp.it - ICTP  
 Turuncoglu Ufuk Utku - uturunco@ictp.it - ITU  
 
