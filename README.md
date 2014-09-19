@@ -10,16 +10,16 @@ Lacturers, collaborators and administrators of this repository are strcutured as
 
 Administrators:
 
-Ivan Girotto (igirotto@ictp.it, ICTP)
-Mike Atambo  (mikeat4999@gmail.com, ICTP)
+Ivan Girotto (igirotto@ictp.it, ICTP)  
+Mike Atambo  (mikeat4999@gmail.com, ICTP)  
 
 
 Lecturers:
 
-Stefano Salon - ssalon@ogs.trieste.it - OGS
-Paolo Lazzari - plazzari@ogs.trieste.it - OGS
-Peter Klin - pklin@inogs.it - OGS
-Riccardo Fernetti - rfarneti@ictp.it - ICTP
-Graziano Giuliani - ggiulian@ictp.it - ICTP
-Turuncoglu Ufuk Utku - uturunco@ictp.it - ITU
+Stefano Salon - ssalon@ogs.trieste.it - OGS  
+Paolo Lazzari - plazzari@ogs.trieste.it - OGS  
+Peter Klin - pklin@inogs.it - OGS  
+Riccardo Fernetti - rfarneti@ictp.it - ICTP  
+Graziano Giuliani - ggiulian@ictp.it - ICTP  
+Turuncoglu Ufuk Utku - uturunco@ictp.it - ITU  
 
